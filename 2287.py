@@ -93,3 +93,5 @@ while True:
             break
     except EOFError:
         break
+
+#the solution I used here is quite overwhelming (i think that's the word), but it's quite fun to make this code, feel free to use it (or not).
