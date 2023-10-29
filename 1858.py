@@ -1,0 +1,5 @@
+a=int(input())
+lista1=list(map(int, input().split()))
+d=min(lista1)
+g=lista1.index(d)
+print(g+1)
